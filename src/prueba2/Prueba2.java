@@ -16,6 +16,8 @@ public class Prueba2 {
      */
     public static void main(String[] args) {
         System.out.println("____mult:"+(5*10));
+        System.out.println("____sum:"+(5+10));
+        
     }
     
 }
